@@ -1,0 +1,19 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "NliOkVzJXjnJJErGylz0bwgyGWg=",
+			"path": "github.com/terraform-providers/terraform-provider-opentelekomcloud",
+			"revision": "ce89a395288e9ef3c1e58a3a01706272d19362aa",
+			"revisionTime": "2020-05-29T07:15:32Z"
+		},
+		{
+			"checksumSHA1": "tVLv75nlfrOxceh1C2JCizP19tU=",
+			"path": "github.com/terraform-providers/terraform-provider-opentelekomcloud/opentelekomcloud",
+			"revision": "ce89a395288e9ef3c1e58a3a01706272d19362aa",
+			"revisionTime": "2020-05-29T07:15:32Z"
+		}
+	],
+	"rootPath": "terraform-provider-opentelekomcloud"
+}
